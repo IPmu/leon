@@ -86,7 +86,7 @@
     "ajv-formats": "2.1.1",
     "archiver": "5.3.1",
     "async": "3.2.4",
-    "axios": "1.1.2",
+    "axios": "1.6.0",
     "cross-env": "7.0.3",
     "dayjs": "1.11.5",
     "dotenv": "10.0.0",
